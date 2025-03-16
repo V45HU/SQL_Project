@@ -1,0 +1,13 @@
+Smartphone Sales SQL Project Summary
+
+1. Created a well-structured database with 5 tables:
+   - Company, Category, Smartphone, Orders, Order_Details.
+
+2. Implemented SQL queries for:
+   - Basic data retrieval (smartphones, categories, company sales).
+   - Aggregation and sales analysis (total revenue, best-selling smartphones).
+   - Advanced queries (monthly sales trends, stock tracking, running totals).
+
+3. Optimized queries for better performance.
+
+This project demonstrates proficiency in database design, SQL query writing, and data analytics using SQL.
