@@ -1,4 +1,5 @@
 # Smartphone Sales Database - SQL Analysis
+<img src = "![SQL Project](https://github.com/user-attachments/assets/b1a500fa-49b6-41bf-8a44-f60053c34675)">
 
 ## Project Overview
 - This project focuses on designing and analyzing a well-structured SQL database for a hypothetical Smartphone Sales Business.
