@@ -1,4 +1,5 @@
 # Smartphone Sales Database - SQL Analysis
+<br>
 <img src="E:\Downloads\SQL Project.png">
 
 ## Project Overview
